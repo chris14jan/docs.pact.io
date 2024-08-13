@@ -27,7 +27,7 @@ In summary:
 
  * Pick the tool that you find the most natural to use - they're both good tools!
  * if you're tied to the JVM, and especially Spring, Spring Cloud Contract might be easier for you to integrate into your tests
- * if your workflow is inherently more provider driven, then Spring Cloud Contracts might suite you better (however, do read [this blog post](https://pactflow.io/blog/bi-directional-contracts//?utm_source=ossdocs&utm_campaign=comparisons) on how the Pact ecosystem is looking to support provider driven flows)
+ * if your workflow is inherently more provider driven, then Spring Cloud Contracts might suite you better (however, do read [this blog post](https://pactflow.io/blog/bi-directional-contracts) on how the Pact ecosystem is looking to support provider driven flows)
  * if you want increased flexibility with your choice of language, and to not be tied to a particular implementation, Pact might suit you better
  * if you want to make use of the Pact Broker, Pact might be the more natural choice
 
